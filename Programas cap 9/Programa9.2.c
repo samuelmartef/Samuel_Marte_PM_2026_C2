@@ -7,7 +7,7 @@ void main(void)
 {
 char p1;
 FILE *ar;
-if ((ar = fopen("arc.txt", "r")) != NULL)       /*Se abre el archivo para lectura*/
+if ((ar = fopen("C:\\Users\\samue\\Desktop\\PROGRAMACION PARA MECA\\Calculadora\\archi.txt", "r")) != NULL)       /*Se abre el archivo para lectura*/
 /*Observa que las dos instruccciones del programa 9.1 necesarias para abrir un archivo y verificar que este en 
 realida se haya abierto, se pueden agrupar en una sola instruccion*/
 {
