@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "matricula": 20260001,
+        "promedio": 85.5
+    },
+    {
+        "nombre": "Maria",
+        "apellido": "Rodriguez",
+        "matricula": 20260002,
+        "promedio": 92.3
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Gomez",
+        "matricula": 20260003,
+        "promedio": 78.4
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Martinez",
+        "matricula": 20260004,
+        "promedio": 95.0
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Sanchez",
+        "matricula": 20260005,
+        "promedio": 88.15
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Diaz",
+        "matricula": 20260006,
+        "promedio": 65.4
+    },
+    {
+        "nombre": "Jose",
+        "apellido": "Fernandez",
+        "matricula": 20260007,
+        "promedio": 81.9
+    },
+    {
+        "nombre": "Sofia",
+        "apellido": "Lopez",
+        "matricula": 20260008,
+        "promedio": 99.1
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Torres",
+        "matricula": 20260009,
+        "promedio": 74.65
+    },
+    {
+        "nombre": "Elena",
+        "apellido": "Ramirez",
+        "matricula": 20260010,
+        "promedio": 90.0
+    }
+]
