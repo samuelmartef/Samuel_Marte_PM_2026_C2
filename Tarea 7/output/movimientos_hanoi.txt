@@ -1,0 +1,18 @@
+Movimientos para 4 discos:
+1) Mover disco 1 de A a C
+2) Mover disco 2 de A a B
+3) Mover disco 1 de C a B
+4) Mover disco 3 de A a C
+5) Mover disco 1 de B a A
+6) Mover disco 2 de B a C
+7) Mover disco 1 de A a C
+8) Mover disco 4 de A a B
+9) Mover disco 1 de C a B
+10) Mover disco 2 de C a A
+11) Mover disco 1 de B a A
+12) Mover disco 3 de C a B
+13) Mover disco 1 de A a C
+14) Mover disco 2 de A a B
+15) Mover disco 1 de C a B
+
+Total de movimientos realizados: 15
