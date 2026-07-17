@@ -34,7 +34,7 @@ alumno temporal;
 fgets(linea, sizeof(linea), ar);
 while (fgets(linea, sizeof(linea), ar))
 {
-    if (strstr(linea, "}"))
+    if (strstr(linea, ","))
     {
         if (cantidad >= capacidad) 
         {
