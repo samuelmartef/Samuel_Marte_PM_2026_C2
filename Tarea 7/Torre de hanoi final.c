@@ -15,7 +15,7 @@ int main() {
         printf("Cuantos discos quiere: ");
         scanf("%d", &dis);
         if (dis <= 0) {
-            printf("Error esto no va jalar \n");
+            printf("Error esto no va \n");
         }
     } while (dis <= 0);
 
